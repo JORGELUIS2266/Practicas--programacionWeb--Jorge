@@ -1,12 +1,16 @@
 p {
 font-family: 'Courier New', Courier, monospace;
 font-size: 25px;
-color: blue;
+color: rgb(255, 17, 0);
 
 }
 .parrafo {
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
-    color: #ff0000;
+    color: #1100ffa9;
     
+    }
+
+    .img-p{
+        border-radius: 100%;
     }
