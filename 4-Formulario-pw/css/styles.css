@@ -1,0 +1,19 @@
+input, select, button{
+    padding: 10px;
+    margin: 5px;
+}
+.boton {
+    border-radius: 15px;
+    background-color: rgb(52, 154, 221);
+    color: white;
+    padding: 10px 20px;
+    text-align: end;
+    border: none;
+    font-size: 25px;
+    font-family: cursive;
+}
+h1{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+
+}
