@@ -2,6 +2,7 @@ input, select, button{
     padding: 10px;
     margin: 5px;
 }
+
 .boton {
     border-radius: 15px;
     background-color: rgb(52, 154, 221);
